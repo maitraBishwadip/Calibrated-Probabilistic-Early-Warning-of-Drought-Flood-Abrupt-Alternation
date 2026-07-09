@@ -2,7 +2,7 @@
 
 **Bishwadip Maitra · Bangladesh University of Engineering and Technology (BUET)**
 Target venue: **IEEE InGARSS 2026** (Hyderabad, 01–04 Dec 2026) — Natural Hazards / Disaster Management track.
-Also written to support an application to **UCD AIMSIR** (Centre for AI, Meteorological Services, Innovation and Research).
+
 
 > **Status: research in progress.** The pipeline (S1–S6 below) is complete and every number in this README
 > is copied verbatim from [`RESULTS_LOG.md`](RESULTS_LOG.md). The manuscript in [`paper/main.tex`](paper/main.tex)
