@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:linkinghub.elsevier.com)",
+      "WebFetch(domain:www.nature.com)"
+    ]
+  }
+}

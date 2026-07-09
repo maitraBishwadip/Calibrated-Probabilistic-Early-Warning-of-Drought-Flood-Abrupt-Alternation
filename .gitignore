@@ -1,0 +1,36 @@
+# ---- Raw & derived data (not tracked — see README "Data" section) ----
+Bangladesh Meterological data.csv
+artefacts/*.npz
+artefacts/*.json
+
+# ---- Generated step reports / write-ups (regenerable, mirrored in RESULTS_LOG.md) ----
+docs/*.md
+
+# ---- Archives ----
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ---- LaTeX build artifacts ----
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+paper/*.fls
+paper/*.fdb_latexmk
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+*.swp
